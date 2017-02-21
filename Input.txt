@@ -1,0 +1,53 @@
+iCreap
+TABULAR RESULTS
+
+STAGE 1
+1
+
+Start Date      0.0 days
+Finish Date     0.0 days
+
+
+SEGMENT MOMENTS, FORCES & STRESSES
+
+ Seg      Node     --- BENDING MOMENT ---    ----- AXIAL FORCE -----    Shear    CONCR STRESS    REBAR STRESS
+  ID End    ID     Conc      Reo    Total     Conc      Reo    Total    Force       T       B       T       B
+                   kN.m     kN.m     kN.m       kN       kN       kN       kN     MPa     MPa     MPa     MPa
+
+   1   A     1      -52       -7      -59     1931      225     2156      -86    7.80   20.23    85.6   156.4
+       B     2      163       18      181     1995      167     2162      -72   13.36    1.82       0.001067        -2.3       4.0    0.001067
+
+
+STAGE 2
+2
+
+Start Date      0.0 days
+Finish Date    60.0 days
+
+
+SEGMENT MOMENTS, FORCES & STRESSES
+
+ Seg      Node     --- BENDING MOMENT ---    ----- AXIAL FORCE -----    Shear    CONCR STRESS    REBAR STRESS
+  ID End    ID     Conc      Reo    Total     Conc      Reo    Total    Force       T       B       T       B
+                   kN.m     kN.m     kN.m       kN       kN       kN       kN     MPa     MPa     MPa     MPa
+
+   1   A     1      -42      -11      -53     1396      436     1832      -72    5.15   15.27   175.5   276.7
+       B     2      123       23      147     1602      302     1903      -59   10.50    1.76   166.7    65.9
+
+
+
+STAGE 3
+3
+
+Start Date     60.0 days
+Finish Date    60.0 days
+
+
+SEGMENT MOMENTS, FORCES & STRESSES
+
+ Seg      Node     --- BENDING MOMENT ---    ----- AXIAL FORCE -----    Shear    CONCR STRESS    REBAR STRESS
+  ID End    ID     Conc      Reo    Total     Conc      Reo    Total    Force       T       B       T       B
+                   kN.m     kN.m     kN.m       kN       kN       kN       kN     MPa     MPa     MPa     MPa
+
+   1   A     1      -42      -11      -53     1396      436     1832      -67    5.15   15.27   175.5   276.7
+       B     2       39       17       56     1616      295     1911       -4    7.95    5.18   1
